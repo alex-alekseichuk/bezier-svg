@@ -18,7 +18,7 @@ npm run build
 
 Open ./dist/index.html in web browser.
 
-## Generate SVG
+## Generate SVG file
 
 Install and run:
 ```bash
