@@ -2,11 +2,11 @@
 
 Browser ready JavaScript's code and CLI tool for generation SVG with random Bezier shapes.
 
-It's nice pattern for background.
+It generates nice patterns for background.
 
 500 x 500 rectangle is split into several random polygons by 5 random lines.
 
-Then it fits a smooth shape using a quadratic Bezier curve into each polygon.
+Then it fits a smooth shapes using a quadratic Bezier curve into each polygon.
 
 
 ## Generate page background on the fly
